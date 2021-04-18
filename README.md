@@ -66,6 +66,8 @@
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegabrielti&layout=compact)](https://github.com/jorgegabrielti/github-readme-stats)
+
 <!--
 **jorgegabrielti/jorgegabrielti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
