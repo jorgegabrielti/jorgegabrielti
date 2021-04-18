@@ -2,9 +2,9 @@
 
 ## I'm Jorge Gabriel
 - 💻 a Computer Support Analyst 
-- 🎓 graduated in Computer Networks :mortar_board:
+- 🎓 graduated in Computer Networks
 - 🚀 specializing in DevOps and Cloud Computing
-- 😍 passionate about monitoring and automation of network and systems :heart_eyes:
+- 😍 passionate about monitoring and automation of network and systems
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jorge-gabriel" target="_blank">
