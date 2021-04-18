@@ -1,8 +1,6 @@
 ### Hey everyone :smiley::wave:
 
 ## I'm Jorge Gabriel
-- I'm live in :brazil:,  midwest, Goiânia :deciduous_tree::department_store:
-- I'm work at Soluti Digital Certification :closed_lock_with_key: as a Computer Support Analyst💻
 - I'm Graduated in Computer Networks :mortar_board:
 - I'm studying Post Graduation in DevOps and Cloud Computing :rocket:
 - I'm passionate about monitoring and automation :heart_eyes:
