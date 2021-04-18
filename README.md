@@ -3,7 +3,7 @@
 ## I'm Jorge Gabriel
 - a Computer Support Analyst💻
 - Graduated in Computer Networks :mortar_board:
-- Studying Post Graduation in DevOps and Cloud Computing :rocket:
+- Specializing in DevOps and Cloud Computing :rocket:
 - Passionate about monitoring and automation of network and systems :heart_eyes:
 
 ## Connect with me:
