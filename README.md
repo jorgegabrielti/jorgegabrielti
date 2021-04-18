@@ -4,7 +4,7 @@
 - a Computer Support Analyst💻
 - Graduated in Computer Networks :mortar_board:
 - Studying Post Graduation in DevOps and Cloud Computing :rocket:
-- Passionate about monitoring and automation :heart_eyes:
+- Passionate about monitoring and automation of network and systems :heart_eyes:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jorge-gabriel" target="_blank">
