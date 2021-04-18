@@ -13,8 +13,27 @@
 </a>
 
 ## My Skills
-<img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/doodle/48/000000/thin-client.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"/> <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="rails" width="40" height="40" style="max-width:100%;"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://store-images.s-microsoft.com/image/apps.2274.3cf2166c-4134-4d3d-956d-9f14f6a979dd.c1a4156b-ce84-4433-96fc-8cc73e10b467.fe0b06e0-00dd-427d-a155-2db405e63ac2.png" alt="rails" width="40" height="40" style="max-width:100%;"/> <img src="https://img.icons8.com/fluent/48/000000/ansible.png"/>
-<img src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" alt="rails" width="40" height="40" style="max-width:100%;"/>
+<!--- Linux Skill --->
+<a href="https://pt.wikipedia.org/wiki/Linux" title="This is an HTML liked image">
+	<img alt="Linux" src="https://img.icons8.com/color/48/000000/linux.png" width="50" height="50" style="max-width:100%;"/>
+</a>
+
+<!--- Network Skill --->
+<a href="https://pt.wikipedia.org/wiki/Rede_de_computadores" title="This is an HTML liked image">
+	<img alt="Network" src="https://img.icons8.com/plasticine/100/000000/thin-client.png" width="50" height="50" style="max-width:100%;"/>
+</a>
+
+<!--- Shell Scripting Skill --->
+<a href="https://pt.wikipedia.org/wiki/Shell_script" title="This is an HTML liked image">
+	<img alt="Shell Script" src="https://img.icons8.com/plasticine/100/000000/bash.png" width="50" height="50" style="max-width:100%;"/>
+</a>
+
+<!--- Python Skill --->
+<a href="https://www.python.org/" title="This is an HTML liked image">
+	<img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="max-width:100%;"/>
+</a>
+
+
 <!--
 **jorgegabrielti/jorgegabrielti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
