@@ -1,9 +1,10 @@
 ### Hey everyone :smiley::wave:
 
 ## I'm Jorge Gabriel
-- I'm Graduated in Computer Networks :mortar_board:
-- I'm studying Post Graduation in DevOps and Cloud Computing :rocket:
-- I'm passionate about monitoring and automation :heart_eyes:
+- a Computer Support Analyst💻
+- Graduated in Computer Networks :mortar_board:
+- Studying Post Graduation in DevOps and Cloud Computing :rocket:
+- Passionate about monitoring and automation :heart_eyes:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jorge-gabriel" target="_blank">
