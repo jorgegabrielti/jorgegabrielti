@@ -63,6 +63,7 @@
 	<img alt="Grafana" src="https://grafana.com/static/img/platform/grafana_enterprise_dark.svg" width="50" height="50" style="max-width:100%;"/>
 </a>
 
+## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&theme=merko)
 
 <!--
