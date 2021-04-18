@@ -39,7 +39,7 @@
 </a>
 
 <!--- Kubernetes --->
-<a href="https://kubernetes.io/pt/" title="This is an HTML liked image">
+<a href="https://kubernetes.io/" title="This is an HTML liked image">
 	<img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="max-width:100%;"/>
 </a>
 
