@@ -1,10 +1,10 @@
 ### Hey everyone :smiley::wave:
 
 ## I'm Jorge Gabriel
-- a Computer Support Analyst💻
-- Graduated in Computer Networks :mortar_board:
-- Specializing in DevOps and Cloud Computing :rocket:
-- Passionate about monitoring and automation of network and systems :heart_eyes:
+- 💻 a Computer Support Analyst 
+- 🎓 graduated in Computer Networks :mortar_board:
+- 🚀 specializing in DevOps and Cloud Computing
+- 😍 passionate about monitoring and automation of network and systems :heart_eyes:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jorge-gabriel" target="_blank">
