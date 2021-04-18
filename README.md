@@ -59,7 +59,7 @@
 </a>
 
 <!--- Grafana --->
-<a href="https://www.zabbix.com/" title="This is an HTML liked image">
+<a href="https://grafana.com/" title="This is an HTML liked image">
 	<img alt="Grafana" src="https://grafana.com/static/img/platform/grafana_enterprise_dark.svg" width="50" height="50" style="max-width:100%;"/>
 </a>
 
