@@ -27,11 +27,11 @@
 	<img alt="Shell Script" src="https://img.icons8.com/plasticine/100/000000/bash.png" width="50" height="50" style="max-width:100%;"/>
 </a>
 
-<!--- Python Skill --->
+<!--- Python Skill
 <a href="https://www.python.org/" title="This is an HTML liked image">
 	<img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="max-width:100%;"/>
 </a>
-
+ --->
 <!--- Docker --->
 <a href="https://www.docker.com/" title="This is an HTML liked image">
 	<img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="max-width:100%;"/>
