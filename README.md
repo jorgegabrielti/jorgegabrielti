@@ -37,11 +37,11 @@
 	<img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="max-width:100%;"/>
 </a>
 
-<!--- Kubernetes --->
+<!--- Kubernetes 
 <a href="https://kubernetes.io/" title="This is an HTML liked image">
 	<img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="max-width:100%;"/>
 </a>
-
+--->
 <!--- Ansible --->
 <a href="https://www.ansible.com/" title="This is an HTML liked image">
 	<img alt="Ansible" src="https://img.icons8.com/fluent/48/000000/ansible.png" width="50" height="50" style="max-width:100%;"/>
