@@ -64,7 +64,7 @@
 
 ## Studying
 <!--- Python --->
-<a href="https://pt.wikipedia.org/wiki/Linux" title="This is an HTML liked image">
+<a href="https://www.python.org/" title="This is an HTML liked image">
 	<img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50" style="max-width:100%;"/>
 </a>
 
