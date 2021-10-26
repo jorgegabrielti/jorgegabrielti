@@ -47,10 +47,10 @@
 	<img alt="Ansible" src="https://img.icons8.com/fluent/48/000000/ansible.png" width="50" height="50" style="max-width:100%;"/>
 </a>
 
-<!--- Terraform --->
+<!--- Terraform 
 <a href="https://www.terraform.io/" title="This is an HTML liked image">
 	<img alt="Terraform" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" width="50" height="50" style="max-width:100%;"/>
-</a>
+</a>--->
 
 <!--- AWS --->
 <a href="https://aws.amazon.com/" title="This is an HTML liked image">
