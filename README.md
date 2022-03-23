@@ -6,7 +6,6 @@
 - 🚀 specializing in DevOps and Cloud Computing
 - 😍 passionate about monitoring and automation of network and systems
 
-:smiley:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jorge-gabriel" target="_blank">
