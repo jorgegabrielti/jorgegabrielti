@@ -11,8 +11,7 @@
 ## Connect with me:
 <!--- Linkedin --->
 <a href="https://www.linkedin.com/in/jorge-gabriel/" title="This is an HTML liked image">
-	<img alt="Linkedin" src="![image](https://github.com/jorgegabrielti/jorgegabrielti/assets/82737544/284e638a-196a-454e-83bb-12ceaad0093d)
-" width="50" height="50" style="max-width:100%;"/>
+	<img alt="Linkedin" src="https://icons8.com/icon/13930/linkedin" width="50" height="50" style="max-width:100%;"/>
 </a>
 
 <!--- Medium --->
