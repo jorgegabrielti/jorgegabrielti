@@ -15,6 +15,17 @@
 " width="50" height="50" style="max-width:100%;"/>
 </a>
 
+<!--- Medium --->
+<a href="https://medium.com/@jorgegabriel.ti" title="This is an HTML liked image">
+	<img alt="Medium" src="![image](https://github.com/jorgegabrielti/jorgegabrielti/assets/82737544/3272ea0c-39fa-4e68-bead-40a0bbb127c7)
+" width="50" height="50" style="max-width:100%;"/>
+</a>
+
+<!--- DIO --->
+<a href="https://www.dio.me/users/jorgegabriel_ti" title="This is an HTML liked image">
+	<img alt="DIO" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigitalinnovationone.atlassian.net%2Fservicedesk%2Fcustomer%2Fportal%2F16&psig=AOvVaw2J-mJDoDaYu6Bkh6PC8Kq8&ust=1716175579173000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDw5MPimIYDFQAAAAAdAAAAABAE" width="50" height="50" style="max-width:100%;"/>
+</a>
+
 
 ## My Skills
 <!--- Linux Skill --->
