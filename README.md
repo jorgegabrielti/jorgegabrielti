@@ -1,111 +1,38 @@
-### Hey everyone :smiley::wave:
+<h1 align="center">Hi 👋, I'm Jorge Gabriel</h1>
+<h3 align="center">- 💻 a DevOps Engineer and Site Reliability Engineer - 🎓 graduated in Computer Networks - 🚀 postgraduate in DevOps and Cloud Computing - 😍 passionate about monitoring and automation of network and systems - 🔐 Pentest Student - 🤖 AI Student</h3>
 
-## I'm Jorge Gabriel
-- 💻 a DevOps Engineer and Site Reliability Engineer
-- 🎓 graduated in Computer Networks
-- 🚀 postgraduate in DevOps and Cloud Computing
-- 😍 passionate about monitoring and automation of network and systems
-- 🔐 Pentest Student
-- 🤖 AI Student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20views&color=0e75b6&style=flat" alt="jorgegabrielti" /> </p>
 
-## Connect with me:
-<!--- Linkedin --->
-<a href="https://www.linkedin.com/in/jorge-gabriel/" title="This is an HTML liked image">
-	<img alt="Linkedin" src="https://icons8.com/icon/13930/linkedin" width="50" height="50" style="max-width:100%;"/>
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgegabrielti" alt="jorgegabrielti" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Python, Google Gemini**
 
+- 👨‍💻 All of my projects are available at [https://www.dio.me/users/jorgegabriel_ti](https://www.dio.me/users/jorgegabriel_ti)
 
-<!--- Medium --->
-<a href="https://medium.com/@jorgegabriel.ti" title="This is an HTML liked image">
-	<img alt="Medium" src="https://icons8.com/icon/kXpTR7n8QCEP/medium" width="50" height="50" style="max-width:100%;"/>
-</a>
+- 📝 I regularly write articles on [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti)
 
+- 💬 Ask me about **DevOps, SRE, Linux and Network**
 
-<!--- DIO --->
-<a href="https://www.dio.me/users/jorgegabriel_ti" title="This is an HTML liked image">
-	<img alt="DIO" src="" width="50" height="50" style="max-width:100%;"/>
-</a>
+- 📄 Know about my experiences [https://www.linkedin.com/in/jorge-gabriel/](https://www.linkedin.com/in/jorge-gabriel/)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## My Skills
-<!--- Linux Skill --->
-<a href="https://pt.wikipedia.org/wiki/Linux" title="This is an HTML liked image">
-	<img alt="Linux" src="https://img.icons8.com/color/48/000000/linux.png" width="50" height="50" style="max-width:100%;"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/_el_85b5d22f0f2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="_el_85b5d22f0f2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jorge-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-gabriel" height="30" width="40" /></a>
+<a href="https://medium.com/@jorgegabriel.ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jorgegabriel.ti" height="30" width="40" /></a>
+</p>
 
-<!--- Network Skill --->
-<a href="https://pt.wikipedia.org/wiki/Rede_de_computadores" title="This is an HTML liked image">
-	<img alt="Network" src="https://img.icons8.com/plasticine/100/000000/thin-client.png" width="50" height="50" style="max-width:100%;"/>
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<!--- Shell Scripting Skill --->
-<a href="https://pt.wikipedia.org/wiki/Shell_script" title="This is an HTML liked image">
-	<img alt="Shell Script" src="https://img.icons8.com/plasticine/100/000000/bash.png" width="50" height="50" style="max-width:100%;"/>
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgegabrielti&show_icons=true&locale=en&layout=compact" alt="jorgegabrielti" /></p>
 
-<!--- Python Skill
-<a href="https://www.python.org/" title="This is an HTML liked image">
-	<img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="max-width:100%;"/>
-</a>
- --->
-<!--- Docker --->
-<a href="https://www.docker.com/" title="This is an HTML liked image">
-	<img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="max-width:100%;"/>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&locale=en" alt="jorgegabrielti" /></p>
 
-<!--- Kubernetes 
-<a href="https://kubernetes.io/" title="This is an HTML liked image">
-	<img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="max-width:100%;"/>
-</a>
---->
-<!--- Ansible --->
-<a href="https://www.ansible.com/" title="This is an HTML liked image">
-	<img alt="Ansible" src="https://img.icons8.com/fluent/48/000000/ansible.png" width="50" height="50" style="max-width:100%;"/>
-</a>
-
-<!--- Terraform 
-<a href="https://www.terraform.io/" title="This is an HTML liked image">
-	<img alt="Terraform" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" width="50" height="50" style="max-width:100%;"/>
-</a>--->
-
-<!--- AWS --->
-<a href="https://aws.amazon.com/" title="This is an HTML liked image">
-	<img alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50" height="50" style="max-width:100%;"/>
-</a>
-
-<!--- Zabbix --->
-<a href="https://www.zabbix.com/" title="This is an HTML liked image">
-	<img alt="Zabbix" src="https://store-images.s-microsoft.com/image/apps.2274.3cf2166c-4134-4d3d-956d-9f14f6a979dd.c1a4156b-ce84-4433-96fc-8cc73e10b467.fe0b06e0-00dd-427d-a155-2db405e63ac2.png" width="50" height="50" style="max-width:100%;"/>
-</a>
-
-<!--- Grafana --->
-<a href="https://grafana.com/" title="This is an HTML liked image">
-	<img alt="Grafana" src="https://grafana.com/static/img/platform/grafana_enterprise_dark.svg" width="50" height="50" style="max-width:100%;"/>
-</a>
-
-## Studying
-<!--- Python 
-<a href="https://www.python.org/" title="This is an HTML liked image">
-	<img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50" style="max-width:100%;"/>
-</a>
---->
-## My GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true)
-
-<!--
-**jorgegabrielti/jorgegabrielti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgegabrielti&" alt="jorgegabrielti" /></p>
