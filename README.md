@@ -1,4 +1,4 @@
-<div align="center"><div align="center"><div align="center"><h1 align="center">Hi 👋, I'm Jorge Gabriel</h1>
+<div align="center"><div align="center"><div align="center"><div align="center"><h1 align="center">Hi 👋, I'm Jorge Gabriel</h1>
 
   
 
@@ -6,7 +6,7 @@
 
 
 
-## 💻 DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Specialist# 👋 Olá, Eu Sou Jorge Gabriel!  <h3 align="center">- 💻 a DevOps Engineer and Site Reliability Engineer - 🎓 graduated in Computer Networks - 🚀 postgraduate in DevOps and Cloud Computing - 😍 passionate about monitoring and automation of network and systems - 🔐 Pentest Student - 🤖 AI Student</h3>
+## 💻 DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Specialist# 👋 Olá, Eu Sou Jorge Gabriel!  
 
 
 
@@ -14,7 +14,7 @@
 
 🎓 Formado em Redes de Computadores, Pós-graduado em DevOps e Cloud Computing.
 
-</h3>## 💻 DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Specialist# 👋 Hey there! I'm Jorge Gabriel
+</h3>## 💻 DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Specialist# 👋 Olá, Eu Sou Jorge Gabriel!  <h3 align="center">- 💻 a DevOps Engineer and Site Reliability Engineer - 🎓 graduated in Computer Networks - 🚀 postgraduate in DevOps and Cloud Computing - 😍 passionate about monitoring and automation of network and systems - 🔐 Pentest Student - 🤖 AI Student</h3>
 
 
 
@@ -22,7 +22,7 @@
 
 😍 Apaixonado por <strong>Monitoramento, Observabilidade</strong> e <strong>Automação</strong> de infraestrutura.
 
-</p><h3 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20views&color=0e75b6&style=flat" alt="jorgegabrielti" /> </p>
+</p><h3 align="center">
 
 
 
@@ -30,7 +30,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20views&color=0e75b6&style=flat" alt="jorgegabrielti" />
 
-</p></h3>### DevOps Engineer | Site Reliability Engineer | Cloud Specialist
+</p></h3>## 💻 DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Specialist# 👋 Hey there! I'm Jorge Gabriel
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-### 🔗 Conecte-se Comigo<p align="center"><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgegabrielti" alt="jorgegabrielti" /></a> </p>
+### 🔗 Conecte-se Comigo<p align="center">
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)</p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)</p><h3 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20views&color=0e75b6&style=flat" alt="jorgegabrielti" /> </p>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jorgegabriel.ti)
 
@@ -54,7 +54,7 @@
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/_el_85b5d22f0f2)
 
-<p align="center">[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jorgegabriel.ti)<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">🎓 Formado em Redes de Computadores, Pós-graduado em DevOps e Cloud Computing.
 
 </p>
 
@@ -62,7 +62,7 @@
 
 </div>
 
-</p>[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/_el_85b5d22f0f2)
+</p></h3>### DevOps Engineer | Site Reliability Engineer | Cloud Specialist
 
 ---
 
@@ -70,7 +70,7 @@
 
 ## 🚀 Sobre Mim e Foco Atual
 
-<br>[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/jorgegabriel_ti)- 🌱 I’m currently learning **Python, Google Gemini**
+<br>
 
 - 🔧 Atualmente focado em aprofundar **Python** para automação avançada e explorando a integração da **Inteligência Artificial (Google Gemini)** em operações de SRE.
 
@@ -78,7 +78,7 @@
 
 - 📊 Tenho grande interesse em **Security & Penetration Testing** e **Automação de Infraestrutura (IaC)**.
 
-- 📝 Escrevo regularmente artigos sobre DevOps, SRE e Cloud em [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti).### 🔗 Conecte-se Comigo
+- 📝 Escrevo regularmente artigos sobre DevOps, SRE e Cloud em [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti).### 🔗 Conecte-se Comigo<p align="center"><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgegabrielti" alt="jorgegabrielti" /></a> </p>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
----<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20Views&color=0e75b6&style=flat)- 👨‍💻 All of my projects are available at [https://www.dio.me/users/jorgegabriel_ti](https://www.dio.me/users/jorgegabriel_ti)
+---<p align="center">😍 Apaixonado por <strong>Monitoramento, Observabilidade</strong> e <strong>Automação</strong> de infraestrutura.
 
 
 
@@ -94,7 +94,7 @@
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-    <img src="https://github-profile-trophy.vercel.app/?username=jorgegabrielti&theme=tokyonight" alt="jorgegabrielti" />[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)
+    <img src="https://github-profile-trophy.vercel.app/?username=jorgegabrielti&theme=tokyonight" alt="jorgegabrielti" />[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)</p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)
 
   </a>
 
@@ -102,7 +102,7 @@
 
 
 
----[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/jorgegabriel_ti)</div>- 📝 I regularly write articles on [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti)
+---[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/jorgegabriel_ti)
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-### Cloud & Infraestrutura
+### Cloud & Infraestrutura<p align="center">[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jorgegabriel.ti)<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="center">
 
@@ -118,7 +118,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)---- 💬 Ask me about **DevOps, SRE, Linux and Network**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)<img src="https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20views&color=0e75b6&style=flat" alt="jorgegabrielti" />
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -126,7 +126,137 @@
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
+</p>[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/_el_85b5d22f0f2)
 
+</p>
+
+---
+
+### Automação & Scripting
+
+<p align="center">
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)## 🚀 Sobre Mim e Foco Atual
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/jorgegabriel_ti)- 🌱 I’m currently learning **Python, Google Gemini**
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+- 🔧 Atualmente focado em aprofundar **Python** para automação avançada e explorando a integração da **Inteligência Artificial (Google Gemini)** em operações de SRE.
+
+</p>
+
+- ☁️ Especialista em **Cloud Architecture** (AWS, GCP) e orquestração com **Kubernetes**.
+
+### Monitoramento & CI/CD
+
+<p align="center">- 📊 Tenho grande interesse em **Security & Penetration Testing** e **Automação de Infraestrutura (IaC)**.
+
+
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)- 📝 Escrevo regularmente artigos sobre DevOps, SRE e Cloud em [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti).### 🔗 Conecte-se Comigo
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+> 💬 **Pergunte-me sobre:** DevOps, SRE, Linux, Redes e Monitoramento.
+
+</p>
+
+
+
+### Bancos de Dados & Outros
+
+<p align="center">---<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20Views&color=0e75b6&style=flat)- 👨‍💻 All of my projects are available at [https://www.dio.me/users/jorgegabriel_ti](https://www.dio.me/users/jorgegabriel_ti)
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<div align="center">
+
+
+
+</p>  <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+
+
+---    <img src="https://github-profile-trophy.vercel.app/?username=jorgegabrielti&theme=tokyonight" alt="jorgegabrielti" />[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)
+
+
+
+## 📝 Últimos Artigos no Medium  </a>
+
+
+
+<!-- BLOG-POST-LIST:START --></div>[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jorgegabriel.ti)
+
+<!-- BLOG-POST-LIST:END -->
+
+
+
+> ✍️ Confira mais artigos sobre SRE e Cloud em [Medium](https://medium.com/@jorgegabriel.ti)
+
+---[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/jorgegabriel_ti)</div>- 📝 I regularly write articles on [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti)
+
+---
+
+
+
+<div align="center">
+
+  ## 🛠️ Minha Stack Principal (SRE & DevOps)[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/_el_85b5d22f0f2)
+
+## 📊 Estatísticas do GitHub
+
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas Gerais" height="190em"/>### Cloud & Infraestrutura
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegabrielti&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Usadas" height="190em"/>
+
+</p><p align="center">
+
+
+
+<br></p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgegabrielti&theme=tokyonight&locale=pt-br" alt="Estatísticas de Contribuição" />
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)---- 💬 Ask me about **DevOps, SRE, Linux and Network**
+
+---
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<div align="center">
+
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)</div>
+
+### 💡 "Automating the world, one commit at a time."
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Vamos nos conectar e construir sistemas mais resilientes!**
+
+
+
+</div>
 
 </p>
 
