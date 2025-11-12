@@ -2,7 +2,7 @@
   
 #  Olá, Eu Sou Jorge Gabriel!
 
-##  DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Specialist
+##  Site Reliability Engineer (SRE) | AWS Cloud Specialist
 
 <h3 align="center">
  Formado em Redes de Computadores, Pós-graduado em DevOps e Cloud Computing.
