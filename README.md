@@ -35,9 +35,9 @@
 
 ##  Sobre Mim e Foco Atual
 
--  Atualmente focado em aprofundar **Python** para automação avançada e explorando a integração da **Inteligência Artificial (Google Gemini)** em operações de SRE.
+-  Atualmente focado em me especializar em **Linux**, **Go (Golang)** e **Site Reliability Engineering (SRE)**.
+-  Explorando a integração de **Inteligência Artificial** em operações de DevOps e SRE.
 -  Especialista em **Cloud Architecture** (AWS, GCP) e orquestração com **Kubernetes**.
--  Tenho grande interesse em **Security & Penetration Testing** e **Automação de Infraestrutura (IaC)**.
 -  Escrevo regularmente artigos sobre DevOps, SRE e Cloud em [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti).
 
 >  **Pergunte-me sobre:** DevOps, SRE, Linux, Redes e Monitoramento.
