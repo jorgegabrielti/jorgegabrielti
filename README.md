@@ -76,9 +76,11 @@ Utilizo **Linux**, **Containers** e **Inteligência Artificial** para resolver p
 
 ##  Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas Gerais" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegabrielti&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Usadas" height="180em"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegabrielti&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Usadas" height="180"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgegabrielti&theme=tokyonight&locale=pt-br" alt="Estatísticas de Contribuição" />
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=jorgegabrielti&theme=tokyonight&locale=pt-br)
 
 ---
