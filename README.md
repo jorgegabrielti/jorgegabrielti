@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Jorge%20Gabriel&reversal=false&fontColor=ffffff&fontSize=60&fontAlignY=36&animation=twinkling&desc=Cloud%20Architect%20%26%20SRE" alt="Jorge Gabriel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&reversal=false&animation=twinkling" alt="Header Wave" />
 </div>
 
 <div align="center">
@@ -27,10 +27,19 @@
 <details>
   <summary><b>🎓&nbsp;&nbsp;Education&nbsp;&&nbsp;Certifications</b></summary>
   <br/>
-  <ul>
-    <li><b>AWS Certifications:</b> <a href="https://www.credly.com/badges/d9499388-ce5e-4f4f-a18d-6c32eb4582a5/public_url">Certified AI Practitioner</a> and <a href="https://www.credly.com/badges/c9572e3b-4e2e-46d5b7dba971b8dbe1b0/linked_in_profile">Certified Cloud Practitioner</a>.</li>
-    <li><b>Education:</b> Postgraduate in <b>DevOps & Cloud Computing</b> | Postgraduate Degree (in progress) in <b>Go Expert</b> | Associate Degree in <b>Computer Networking</b>.</li>
-  </ul>
+
+  **☁️ Certifications**
+  - [AWS Certified AI Practitioner](https://www.credly.com/badges/d9499388-ce5e-4f4f-a18d-6c32eb4582a5/public_url)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c9572e3b-4e2e-46d5b7dba971b8dbe1b0/linked_in_profile)
+  <br/>
+
+  **🏫 Academic Background**
+  - **Postgraduate Degree in Go Expert** — FCTECH *(In Progress)*
+  - **Postgraduate Degree in DevOps & Cloud Computing** — Faculdade Senai Fatesg
+  - **Degree in Computers Network** — Faculdade Senai Fatesg
+  - **Technical Degree in Computers Network** — Faculdade Senai Fatesg
+  - **Technical Degree in Systems Development** — Senac-RS *(In Progress)*
+
 </details>
 
 ---
@@ -38,7 +47,7 @@
 ## ⚡ Tech Stack (SRE & DevOps)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,bash,linux,aws,docker,kubernetes,terraform,ansible,githubactions,jenkins,prometheus,grafana" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=go,python,bash,linux,aws,docker,kubernetes,terraform,ansible,githubactions,grafana" alt="Skill Icons" />
 </div>
 
 ---
