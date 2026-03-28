@@ -1,85 +1,72 @@
-﻿##  Olá, Eu Sou Jorge Gabriel!
-Utilizo **Linux**, **Containers** e **Inteligência Artificial** para resolver problemas.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+Eu+Sou+Jorge+Gabriel!;Cloud+Architect+%26+SRE;Apaixonado+por+Linux+e+IA;Gopher+%26+DevOps+Engineer" alt="Typing SVG" />
+</div>
 
-- 🎓 Formado em **Redes de Computadores**
-- 🎓 Pós-graduado em **DevOps** e **Cloud Computing**.
-- 😍 Apaixonado por **Automação** e **Inteligência Artificial**
+<p align="center">
+  Utilizo <strong>Linux</strong>, <strong>Containers</strong> e <strong>Inteligência Artificial</strong> para resolver problemas complexos e criar infraestruturas escaláveis.
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <a href="https://linkedin.com/in/jorge-gabriel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@jorgegabriel.ti"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.dio.me/users/jorgegabriel_ti"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+</p>
 
----
-
-##  Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jorgegabriel.ti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/jorgegabriel_ti)
-
----
-
-##  Sobre Mim e Foco Atual
-
--  Atualmente focado em me especializar em **Linux**, **Go (Golang)** e **Site Reliability Engineering (SRE)**.
--  Explorando a integração de **Inteligência Artificial** em operações de DevOps e SRE.
--  Especialista em **Cloud Architecture** AWS e Orquestração de Containers com **Kubernetes**.
--  Escrevo regularmente artigos sobre DevOps, SRE e Cloud em [https://medium.com/@jorgegabriel.ti](https://medium.com/@jorgegabriel.ti).
-
->  **Pergunte-me sobre:** SRE, Linux, Redes e Containers.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jorgegabrielti&label=Profile%20views&color=00FF99&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jorgegabrielti&theme=tokyonight" alt="jorgegabrielti" />
-</a>
+## 👨‍💻 Sobre Mim & Foco Atual
+
+- 🔭 Atualmente focado em me especializar em **Go (Golang)**, **Linux** e **SRE**.
+- 🌱 Explorando integrações avançadas de **Inteligência Artificial** em pipelines de DevOps.
+- ☁️ Especialista em **Cloud Architecture (AWS)** e Orquestração com **Kubernetes**.
+- 🎓 Formado em **Redes de Computadores** e Pós-graduado em **DevOps / Cloud Computing**.
+- 💬 **Pergunte-me sobre:** Arquitetura de microsserviços, SRE, Automação, e Redes.
+- ⚡ **Fun fact:** Quando não estou configurando clusters, estou escrevendo sobre eles.
 
 ---
 
-##  Minha Stack Principal (SRE & DevOps)
+## 🛠️ Stack Tecnológica (SRE & DevOps)
 
-### Cloud & Infraestrutura
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+| Cloud & Infraestrutura | Automação & Scripting | Monitoramento & CI/CD |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <br> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> <br> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <br> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> <br> <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" /> | <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> <br> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <br> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /> <br> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /> <br> <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" /> |
 
-### Automação & Scripting
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Monitoramento & CI/CD
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Bancos de Dados & Outros
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
 ---
 
-##  Últimos Artigos no Medium
+## 📊 Analytics do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegabrielti&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Usadas" height="190"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgegabrielti&theme=tokyonight&locale=pt-br" alt="Sequência de Contribuições" />
+</p>
+
+### 📈 Gráfico de Contribuições (Snake)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgegabrielti/jorgegabrielti/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorgegabrielti/jorgegabrielti/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jorgegabrielti/jorgegabrielti/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📝 Últimos Artigos no Medium
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
->  Confira mais artigos sobre SRE e Cloud em [Medium](https://medium.com/@jorgegabriel.ti)
-
----
-
-##  Estatísticas do GitHub
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=jorgegabrielti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegabrielti&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Usadas" height="180"/>
-</p>
-
-![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=jorgegabrielti&theme=tokyonight&locale=pt-br)
-
----
+> 💡 Confira novos artigos e análises sobre Cloud & DevOps em [meu Medium](https://medium.com/@jorgegabriel.ti).
