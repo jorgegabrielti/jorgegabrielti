@@ -47,7 +47,17 @@
 ## ⚡ Tech Stack (SRE & DevOps)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,bash,linux,aws,docker,kubernetes,terraform,ansible,githubactions,grafana" alt="Skill Icons" />
+  <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://kernel.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://developer.hashicorp.com/terraform" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+  <a href="https://www.ansible.com" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
 </div>
 
 ---
