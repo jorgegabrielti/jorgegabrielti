@@ -80,6 +80,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Iniciando a jornada em Go: do absoluto Zero ao seu primeiro módulo.](https://medium.com/@jorgegabriel.ti/iniciando-a-jornada-em-go-do-absoluto-zero-ao-seu-primeiro-m%C3%B3dulo-01382acf4dbc?source=rss-6a35d5d29b16------2)
+- [Embarking on the Go Journey: From Absolute Zero to Your First Module](https://medium.com/@jorgegabriel.ti/embarking-on-the-go-journey-from-absolute-zero-to-your-first-module-644935f5171d?source=rss-6a35d5d29b16------2)
+- [Hardware — Uma visão geral da anatomia do computador](https://medium.com/@jorgegabriel.ti/hardware-uma-vis%C3%A3o-geral-da-anatomia-do-computador-e6ce24eaccf4?source=rss-6a35d5d29b16------2)
+- [Day 1 — Parte 6: Upgrade do Cluster Kubernetes v1.31 para v1.32 — Workers Nodes](https://medium.com/@jorgegabriel.ti/day-1-parte-6-upgrade-do-cluster-kubernetes-v1-31-para-v1-32-workers-nodes-f2887b255ff3?source=rss-6a35d5d29b16------2)
+- [Day 1— Parte 5: Upgrade do Cluster Kubernetes v1.31 para v1.32 — Control Plane](https://medium.com/@jorgegabriel.ti/day-1-parte-5-upgrade-do-cluster-kubernetes-v1-31-para-v1-32-dde5b2a1c140?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
