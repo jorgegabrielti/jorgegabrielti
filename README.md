@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&reversal=false&animation=twinkling" alt="Header Wave" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=2000&color=00FF99&background=0D1117&vCenter=true&center=true&width=800&lines=root%40jorgegabriel%3A~%23+.%2Finit_sre_profile.sh;%5B+%2B+%5D+Booting+Environment...;%5B+%2B+%5D+Connecting+to+AWS...;%5B+%2B+%5D+Kubernetes+Cluster+Healthy.;%5B+%2B+%5D+All+Systems+Operational." alt="Animated Terminal" />
 </div>
 
 <div align="center">
@@ -85,5 +85,5 @@
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF99&background=0D1117&vCenter=true&center=true&width=800&lines=root%40jorgegabriel%3A~%23+exit;Connection+closed." alt="Terminal Footer" />
 </div>
