@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Funções em Go: Construindo as mini-fábricas do seu código](https://medium.com/@jorgegabriel.ti/fun%C3%A7%C3%B5es-em-go-construindo-as-mini-f%C3%A1bricas-do-seu-c%C3%B3digo-26d7862538b1?source=rss-6a35d5d29b16------2)
 - [Repetição sem complicações em Go: Dominando o Loop for](https://medium.com/@jorgegabriel.ti/repeti%C3%A7%C3%A3o-sem-complica%C3%A7%C3%B5es-em-go-dominando-o-loop-for-66daf532ce6e?source=rss-6a35d5d29b16------2)
 - [Controle de fluxo em Go: Tomando decisões de forma inteligente e eficiente](https://medium.com/@jorgegabriel.ti/controle-de-fluxo-em-go-tomando-decis%C3%B5es-de-forma-inteligente-e-eficiente-c72ba15a122b?source=rss-6a35d5d29b16------2)
 - [Tipos primitivos em Go](https://medium.com/@jorgegabriel.ti/tipos-primitivos-em-go-e82610ff92e7?source=rss-6a35d5d29b16------2)
 - [Organizando o Caos: Como o Go Gerencia Variáveis, Constantes e o Poder do “Zero Value”](https://medium.com/@jorgegabriel.ti/organizando-o-caos-como-o-go-gerencia-vari%C3%A1veis-constantes-e-o-poder-do-zero-value-cfdeb37d61f0?source=rss-6a35d5d29b16------2)
-- [De 45 minutos de espera a segundos: Como o Go reconstruiu a “Cozinha” do desenvolvimento de…](https://medium.com/@jorgegabriel.ti/de-45-minutos-de-espera-a-segundos-como-o-go-reconstruiu-a-cozinha-do-desenvolvimento-de-87ae97e92b82?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
