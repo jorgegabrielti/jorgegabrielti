@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Métodos em Go: quando seus dados aprendem a agir sozinhos](https://medium.com/@jorgegabriel.ti/m%C3%A9todos-em-go-quando-seus-dados-aprendem-a-agir-sozinhos-0809287b5227?source=rss-6a35d5d29b16------2)
 - [Structs em Go](https://medium.com/@jorgegabriel.ti/structs-em-go-fd2a6b274260?source=rss-6a35d5d29b16------2)
 - [Ponteiros em Go](https://medium.com/@jorgegabriel.ti/ponteiros-em-go-47bedd96ff0f?source=rss-6a35d5d29b16------2)
 - [O Guarda-Volumes Inteligente: entendendo Maps em Go](https://medium.com/@jorgegabriel.ti/o-guarda-volumes-inteligente-entendendo-maps-em-go-a462c25dd2c3?source=rss-6a35d5d29b16------2)
 - [Arrays e Slices em Go](https://medium.com/@jorgegabriel.ti/arrays-e-slices-em-go-a005c3a56dc5?source=rss-6a35d5d29b16------2)
-- [Funções em Go: Construindo as mini-fábricas do seu código](https://medium.com/@jorgegabriel.ti/fun%C3%A7%C3%B5es-em-go-construindo-as-mini-f%C3%A1bricas-do-seu-c%C3%B3digo-26d7862538b1?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
