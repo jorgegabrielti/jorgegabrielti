@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [O “Valor da Preparação”: o que a rotina de Erling Haaland pode ensinar sobre o “Modo SRE”](https://medium.com/@jorgegabriel.ti/o-valor-da-prepara%C3%A7%C3%A3o-o-que-a-rotina-de-erling-haaland-pode-ensinar-sobre-o-modo-sre-da63215de9a7?source=rss-6a35d5d29b16------2)
+- [Interfaces em Go: o contrato!](https://medium.com/@jorgegabriel.ti/interfaces-em-go-o-contrato-f96083ec7f11?source=rss-6a35d5d29b16------2)
 - [Métodos em Go: quando seus dados aprendem a agir sozinhos](https://medium.com/@jorgegabriel.ti/m%C3%A9todos-em-go-quando-seus-dados-aprendem-a-agir-sozinhos-0809287b5227?source=rss-6a35d5d29b16------2)
 - [Structs em Go](https://medium.com/@jorgegabriel.ti/structs-em-go-fd2a6b274260?source=rss-6a35d5d29b16------2)
 - [Ponteiros em Go](https://medium.com/@jorgegabriel.ti/ponteiros-em-go-47bedd96ff0f?source=rss-6a35d5d29b16------2)
-- [O Guarda-Volumes Inteligente: entendendo Maps em Go](https://medium.com/@jorgegabriel.ti/o-guarda-volumes-inteligente-entendendo-maps-em-go-a462c25dd2c3?source=rss-6a35d5d29b16------2)
-- [Arrays e Slices em Go](https://medium.com/@jorgegabriel.ti/arrays-e-slices-em-go-a005c3a56dc5?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
