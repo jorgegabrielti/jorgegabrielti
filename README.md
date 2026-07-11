@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [17. Buffer e select em Channels Go](https://medium.com/@jorgegabriel.ti/17-buffer-e-select-em-channels-go-a6fc2ef107c7?source=rss-6a35d5d29b16------2)
+- [16. Channels em Go](https://medium.com/@jorgegabriel.ti/16-channels-em-go-be4f6bfb1471?source=rss-6a35d5d29b16------2)
 - [15. Goroutines](https://medium.com/@jorgegabriel.ti/15-goroutines-e93c8cbb6b88?source=rss-6a35d5d29b16------2)
 - [O que é Inteligência Artificial? Um Estudo que Vai da Etimologia à Era dos Dados](https://medium.com/@jorgegabriel.ti/o-que-%C3%A9-intelig%C3%AAncia-artificial-um-estudo-que-vai-da-etimologia-%C3%A0-era-dos-dados-974bbd44731f?source=rss-6a35d5d29b16------2)
 - [14. Como o Go organiza o caos: pacotes, módulos e a regra da letra maiúscula](https://medium.com/@jorgegabriel.ti/14-como-o-go-organiza-o-caos-pacotes-m%C3%B3dulos-e-a-regra-da-letra-mai%C3%BAscula-732b6974735b?source=rss-6a35d5d29b16------2)
-- [13. Tratamento de erros em Go](https://medium.com/@jorgegabriel.ti/tratamento-de-erros-em-go-e256ff64c91e?source=rss-6a35d5d29b16------2)
-- [O “Valor da Preparação”: o que a rotina de Erling Haaland pode ensinar sobre o “Modo SRE”](https://medium.com/@jorgegabriel.ti/o-valor-da-prepara%C3%A7%C3%A3o-o-que-a-rotina-de-erling-haaland-pode-ensinar-sobre-o-modo-sre-da63215de9a7?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
