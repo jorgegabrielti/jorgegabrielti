@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [19. Manipulação de arquivos e I/O em Go](https://medium.com/@jorgegabriel.ti/19-manipula%C3%A7%C3%A3o-de-arquivos-e-i-o-em-go-0697b6be13c0?source=rss-6a35d5d29b16------2)
 - [18. Waitgroups em Go](https://medium.com/@jorgegabriel.ti/18-waitgroups-em-go-6501627fd0d4?source=rss-6a35d5d29b16------2)
 - [17. Buffer e select em Channels Go](https://medium.com/@jorgegabriel.ti/17-buffer-e-select-em-channels-go-a6fc2ef107c7?source=rss-6a35d5d29b16------2)
 - [16. Channels em Go](https://medium.com/@jorgegabriel.ti/16-channels-em-go-be4f6bfb1471?source=rss-6a35d5d29b16------2)
 - [15. Goroutines](https://medium.com/@jorgegabriel.ti/15-goroutines-e93c8cbb6b88?source=rss-6a35d5d29b16------2)
-- [O que é Inteligência Artificial? Um Estudo que Vai da Etimologia à Era dos Dados](https://medium.com/@jorgegabriel.ti/o-que-%C3%A9-intelig%C3%AAncia-artificial-um-estudo-que-vai-da-etimologia-%C3%A0-era-dos-dados-974bbd44731f?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
