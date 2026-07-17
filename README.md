@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [22. Context em Go — Trabalhando com Concorrência](https://medium.com/@jorgegabriel.ti/22-context-em-go-trabalhando-com-concorr%C3%AAncia-4f982233b949?source=rss-6a35d5d29b16------2)
 - [21. Testes automatizados em Go](https://medium.com/@jorgegabriel.ti/21-testes-automatizados-em-go-91c7e94cf1d0?source=rss-6a35d5d29b16------2)
 - [20. Como trabalhar com JSON em Go](https://medium.com/@jorgegabriel.ti/como-trabalhar-com-json-em-go-cc11c9e801a2?source=rss-6a35d5d29b16------2)
 - [19. Manipulação de arquivos e I/O em Go](https://medium.com/@jorgegabriel.ti/19-manipula%C3%A7%C3%A3o-de-arquivos-e-i-o-em-go-0697b6be13c0?source=rss-6a35d5d29b16------2)
 - [18. Waitgroups em Go](https://medium.com/@jorgegabriel.ti/18-waitgroups-em-go-6501627fd0d4?source=rss-6a35d5d29b16------2)
-- [17. Buffer e select em Channels Go](https://medium.com/@jorgegabriel.ti/17-buffer-e-select-em-channels-go-a6fc2ef107c7?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
