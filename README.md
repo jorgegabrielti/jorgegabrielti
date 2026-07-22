@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [27. Trabalhando com data e hora em Go](https://medium.com/@jorgegabriel.ti/27-trabalhando-com-data-e-hora-em-go-985906e564f6?source=rss-6a35d5d29b16------2)
 - [26. O pacote strings do Go: referência prática para manipulação de texto](https://medium.com/@jorgegabriel.ti/26-o-pacote-strings-do-go-refer%C3%AAncia-pr%C3%A1tica-para-manipula%C3%A7%C3%A3o-de-texto-d0346266464f?source=rss-6a35d5d29b16------2)
 - [25. Construindo um encurtador de URL em Go](https://medium.com/@jorgegabriel.ti/25-construindo-um-encurtador-de-url-em-go-742f0db66066?source=rss-6a35d5d29b16------2)
 - [24. Web Server em Go](https://medium.com/@jorgegabriel.ti/24-web-server-em-go-77b8799d243d?source=rss-6a35d5d29b16------2)
 - [23. Go Generics: A Chave de Fenda Universal](https://medium.com/@jorgegabriel.ti/23-go-generics-a-chave-de-fenda-universal-d91695af4b23?source=rss-6a35d5d29b16------2)
-- [22. Context em Go — Trabalhando com Concorrência](https://medium.com/@jorgegabriel.ti/22-context-em-go-trabalhando-com-concorr%C3%AAncia-4f982233b949?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
