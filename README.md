@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [29. O pacote flag e como Go constrói CLIs](https://medium.com/@jorgegabriel.ti/29-o-pacote-flag-e-como-go-constr%C3%B3i-clis-652ef263990e?source=rss-6a35d5d29b16------2)
 - [28. Golang — A função init() e o que acontece antes da main()](https://medium.com/@jorgegabriel.ti/28-golang-a-fun%C3%A7%C3%A3o-init-e-o-que-acontece-antes-de-main-d0c55a82b453?source=rss-6a35d5d29b16------2)
 - [27. Trabalhando com data e hora em Go](https://medium.com/@jorgegabriel.ti/27-trabalhando-com-data-e-hora-em-go-985906e564f6?source=rss-6a35d5d29b16------2)
 - [26. O pacote strings do Go: referência prática para manipulação de texto](https://medium.com/@jorgegabriel.ti/26-o-pacote-strings-do-go-refer%C3%AAncia-pr%C3%A1tica-para-manipula%C3%A7%C3%A3o-de-texto-d0346266464f?source=rss-6a35d5d29b16------2)
 - [25. Construindo um encurtador de URL em Go](https://medium.com/@jorgegabriel.ti/25-construindo-um-encurtador-de-url-em-go-742f0db66066?source=rss-6a35d5d29b16------2)
-- [24. Web Server em Go](https://medium.com/@jorgegabriel.ti/24-web-server-em-go-77b8799d243d?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
