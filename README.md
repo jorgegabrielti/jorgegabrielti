@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [33. Como escrever logs estruturados e prontos para ferramentas de monitoramento Go](https://medium.com/@jorgegabriel.ti/33-como-escrever-logs-estruturados-e-prontos-para-ferramentas-de-monitoramento-go-ef9dedc977c9?source=rss-6a35d5d29b16------2)
+- [32. Rastreando erros com error wrapping em Go](https://medium.com/@jorgegabriel.ti/32-rastreando-erros-com-error-wrapping-em-go-9712e5d6dd62?source=rss-6a35d5d29b16------2)
 - [31. Cliente HTTP — Consumindo APIs em Go](https://medium.com/@jorgegabriel.ti/cliente-http-consumindo-apis-em-go-625089b08817?source=rss-6a35d5d29b16------2)
 - [30. database/sql e o modelo de acesso a bancos de dados em Go](https://medium.com/@jorgegabriel.ti/30-database-sql-e-o-modelo-de-acesso-a-bancos-de-dados-em-go-6daaea035e9e?source=rss-6a35d5d29b16------2)
 - [29. O pacote flag e como Go constrói CLIs](https://medium.com/@jorgegabriel.ti/29-o-pacote-flag-e-como-go-constr%C3%B3i-clis-652ef263990e?source=rss-6a35d5d29b16------2)
-- [28. Golang — A função init() e o que acontece antes da main()](https://medium.com/@jorgegabriel.ti/28-golang-a-fun%C3%A7%C3%A3o-init-e-o-que-acontece-antes-de-main-d0c55a82b453?source=rss-6a35d5d29b16------2)
-- [27. Trabalhando com data e hora em Go](https://medium.com/@jorgegabriel.ti/27-trabalhando-com-data-e-hora-em-go-985906e564f6?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
