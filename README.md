@@ -90,11 +90,11 @@
 ## 📝 Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [35. fmt e strconv — Formatação e Conversão em Go](https://medium.com/@jorgegabriel.ti/35-fmt-e-strconv-formata%C3%A7%C3%A3o-e-convers%C3%A3o-em-go-3bde08c87bf6?source=rss-6a35d5d29b16------2)
 - [34. Organização de Projetos Go](https://medium.com/@jorgegabriel.ti/34-organiza%C3%A7%C3%A3o-de-projetos-go-443138adf93f?source=rss-6a35d5d29b16------2)
 - [33. Como escrever logs estruturados e prontos para ferramentas de monitoramento Go](https://medium.com/@jorgegabriel.ti/33-como-escrever-logs-estruturados-e-prontos-para-ferramentas-de-monitoramento-go-ef9dedc977c9?source=rss-6a35d5d29b16------2)
 - [32. Rastreando erros com error wrapping em Go](https://medium.com/@jorgegabriel.ti/32-rastreando-erros-com-error-wrapping-em-go-9712e5d6dd62?source=rss-6a35d5d29b16------2)
 - [31. Cliente HTTP — Consumindo APIs em Go](https://medium.com/@jorgegabriel.ti/cliente-http-consumindo-apis-em-go-625089b08817?source=rss-6a35d5d29b16------2)
-- [30. database/sql e o modelo de acesso a bancos de dados em Go](https://medium.com/@jorgegabriel.ti/30-database-sql-e-o-modelo-de-acesso-a-bancos-de-dados-em-go-6daaea035e9e?source=rss-6a35d5d29b16------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 Check out more articles and insights about Cloud & DevOps on [my Medium account](https://medium.com/@jorgegabriel.ti).
